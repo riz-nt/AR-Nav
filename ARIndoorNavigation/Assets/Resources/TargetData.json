@@ -1,0 +1,80 @@
+{
+	"TargetList": [
+		{	
+			"Name":"StartingPoint",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+			
+		},
+		{
+			"Name": "206",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.7,
+				"y": 0,
+				"z":11.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "205",
+			"FloorNumber": 0,
+			"Position": {
+				"x":0.9,
+				"y": 0,
+				"z":11.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "204",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.7,
+				"y": 0,
+				"z": 6.5
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "208",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 5.5,
+				"y": 0,
+				"z":23.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 130.0,
+				"z": 0.0
+			}
+		}
+		
+		
+		
+		
+		
+	]
+}
